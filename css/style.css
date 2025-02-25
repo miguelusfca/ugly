@@ -1,0 +1,52 @@
+body {
+    background-image: url('../img/backgroundimage.jpg');
+    margin: auto;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   font-style: oblique;
+   color: white;
+   text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+p {
+    font-size: 60pt;
+    color: white;
+    background-color: red;
+    
+}
+h1 {
+    color: white;
+    background-color: red;
+    
+}
+
+h1:hover {
+    background-color: bisque;
+    color: hotpink;
+}
+
+h2 {
+    color: blue;
+    background-color: brown;
+    font-size: 50pt;
+}
+
+h2:hover {
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+h3 {
+    color: black;
+    background-color: antiquewhite;
+    font-size: 30pt;
+}
+
+ #bye5 {
+    position: absolute;
+    top: 50px;
+    left: 150px;
+   
+ }
